@@ -6,9 +6,9 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./fav-photos.component.css']
 })
 export class FavPhotosComponent implements OnInit {
-  photosTitle = 'Photo/Image Section Title Here';
-  image1 = 'https://www.launchcode.org/assets/icons/target-00c7a0bc7776901e3c5cdc4c36c465f19e41a249bc7267a595f0bfa14ab944b7.png';
-  image2 = '';
+  photosTitle = 'Too Cool Photos';
+  image1 = 'https://w1.pngwing.com/pngs/674/595/png-transparent-beaver-drawing-beaver-attack-american-beaver-seals-snout-bear-wildlife-thumbnail.png';
+  image2 = 'https://www.drawingnow.com/file/videos/steps/123662/how-to-draw-panda-dabbing-step-10.jpg';
   image3 = '';
 
   constructor() { }
