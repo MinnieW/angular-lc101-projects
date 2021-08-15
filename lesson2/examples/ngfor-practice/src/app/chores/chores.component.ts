@@ -6,8 +6,8 @@ import { Component, OnInit } from '@angular/core';
    styleUrls: ['./chores.component.css']
 })
 export class ChoresComponent implements OnInit {
-   chores = ['Empty dishwasher', 'Complete LaunchCode prep work', 'Buy groceries'];
-   todoTitles = ["Yesterday's Chores", "Today's Chores", "Tomorrow's Chores"];
+   chores = ['Complete LaunchCode prep work', 'Buy groceries', 'Clean bathroom', 'Feed dog', 'Make bed', 'Sweep floor'];
+   todoTitles = ["Yesterday's Chores", "Fortnight Chores", "Tomorrow's Chores"];
 
    constructor() { }
 
